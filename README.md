@@ -57,6 +57,6 @@ To strengthen core JavaScript concepts and confidently work with DOM and APIs fo
 ---
 
 ## 🔥 Author
-**Shahriar Ahmmed Ripon**
+**Shahriar Ahmmed Ripon**  
 CSE Student | Aspiring Web Developer  
 Focused on clean UI, structured learning & practical coding.  
