@@ -1,0 +1,1 @@
+**Create and append element in JavaScript | How to dynamically create html Element in javascript
