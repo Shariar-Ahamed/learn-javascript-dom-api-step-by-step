@@ -1,0 +1,13 @@
+document.getElementById('heading2').style.color = 'red';
+
+element2.getAttribute('class')
+
+element2.classList
+
+element2.classList.add('goodBye')
+
+element2.classList.remove('goodBye')
+
+element2.classList.toggle('goodBye')
+
+element2.classList.contains('goodBye')
