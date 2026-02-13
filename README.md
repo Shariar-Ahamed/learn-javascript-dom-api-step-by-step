@@ -52,7 +52,7 @@ This repository is based on the [JavaScript DOM & API Playlist](https://youtube.
 ---
 
 ## 💡 Goal
-o strengthen core JavaScript concepts and confidently work with DOM and APIs for real-world web applications.
+To strengthen core JavaScript concepts and confidently work with DOM and APIs for real-world web applications.
 
 ---
 
