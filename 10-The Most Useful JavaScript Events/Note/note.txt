@@ -1,0 +1,105 @@
+**The Most Useful JavaScript Events
+
+
+🖱️ Mouse Events (JavaScript)
+
+1. click → একবার ক্লিক
+2. dblclick → ডাবল ক্লিক
+3. mousedown → মাউস চাপলে
+4. mouseup → মাউস ছাড়লে
+5. mousemove → মাউস নড়লে
+6. mouseover → element এর উপর গেলে
+7. mouseout → element থেকে বের হলে
+8. mouseenter → element এ ঢুকলে (child এ গেলে repeat হয় না)
+9. mouseleave → element ছাড়লে
+10. contextmenu → Right click
+11. wheel → Mouse scroll
+12. drag → Drag চলাকালে
+13. dragstart → Drag শুরু
+14. dragend → Drag শেষ
+15. dragenter → Drag করা element ঢুকলে
+16. dragleave → Drag করা element বের হলে
+17. dragover → Drag করা element উপরে থাকলে
+18. drop → Drop করলে
+
+---
+
+⌨️ Keyboard Events (JavaScript)
+
+1. keydown → Key চাপলে
+2. keyup → Key ছাড়লে
+3. keypress → (Deprecated)
+
+---
+
+🎯 Focus Events (JavaScript)
+
+1. focus → Element active হলে
+2. blur → Focus চলে গেলে
+3. focusin → Focus (bubbling করে)
+4. focusout → Blur (bubbling করে)
+
+---
+
+📝 Form Events (JavaScript)
+
+1. input → টাইপ করলে সাথে সাথে
+2. change → Value change হয়ে focus গেলে
+3. submit → Form submit হলে
+4. reset → Form reset হলে
+5. invalid → Validation fail হলে
+
+---
+
+📄 Window / Browser Events (JavaScript)
+
+1. load → Page পুরো load হলে
+2. DOMContentLoaded → HTML load শেষ হলে
+3. resize → Window size change হলে
+4. scroll → Scroll করলে
+5. beforeunload → Page ছাড়ার আগে
+6. unload → Page unload হলে
+
+---
+
+📱 Touch Events (JavaScript)
+
+1. touchstart → Touch শুরু
+2. touchmove → Touch move
+3. touchend → Touch শেষ
+4. touchcancel → Touch cancel
+
+---
+
+🎬 Media Events (JavaScript)
+
+1. play → Play করলে
+2. pause → Pause করলে
+3. ended → শেষ হলে
+4. volumechange → Volume change হলে
+5. timeupdate → Current time change হলে
+
+---
+
+📋 Clipboard Events (JavaScript)
+
+1. copy → Copy করলে
+2. cut → Cut করলে
+3. paste → Paste করলে
+
+---
+
+📡 Network Events (JavaScript)
+
+1. online → Internet connect হলে
+2. offline → Internet disconnect হলে
+
+---
+
+🎬 Animation / Transition Events (JavaScript)
+
+1. animationstart → Animation শুরু
+2. animationend → Animation শেষ
+3. animationiteration → Animation repeat হলে
+4. transitionstart → Transition শুরু
+5. transitionend → Transition শেষ
