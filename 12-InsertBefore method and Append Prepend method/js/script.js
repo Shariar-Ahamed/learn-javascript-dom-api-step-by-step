@@ -3,7 +3,7 @@
 const li = document.createElement('li');
 li.textContent = 'First';
 
-menuTag.insertBefore(li, menuTag.firstChild);
+menuTag.insertBefore(li, menuTag.firstChild);  // lastChild {last li}
 */
 
 
@@ -19,4 +19,4 @@ const makeList = list.map((ltems) => {
     return li;
 });
 
-menuTag1.append(...makeList);  //prepend {down}
+menuTag1.append(...makeList);  //prepend {last li}
