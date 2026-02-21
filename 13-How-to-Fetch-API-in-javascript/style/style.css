@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+
+#comment-btn{
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#comment-btn:hover{
+    background-color: red;
+    transition: 0.5s;
+}
