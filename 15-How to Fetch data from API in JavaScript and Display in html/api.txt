@@ -1,0 +1,1 @@
+How to Fetch data from API in JavaScript and Display in html
