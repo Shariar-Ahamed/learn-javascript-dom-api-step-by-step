@@ -1,0 +1,8 @@
+body{
+    background-color: aqua;
+}
+
+#parent-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) ;
+}

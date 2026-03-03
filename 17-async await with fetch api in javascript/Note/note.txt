@@ -1,0 +1,4 @@
+**async await with fetch api in javascript
+
+
+URL : https://jsonplaceholder.typicode.com/
